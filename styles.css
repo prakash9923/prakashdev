@@ -8,7 +8,7 @@
 
 .navbar-nav{
  font-weight: 500;
- margin-left: 24%;
+ margin-left: 22%;
 margin-top: 0%;
 margin-bottom: 0%;
 }
@@ -30,7 +30,7 @@ margin-bottom: 0%;
 }
 .head-3{
     font-family: 'Times New Roman', Times, serif;
-    font-size: 43px;
+    font-size: 40px;
     font-weight: bold;
     color: wheat;
 }
@@ -49,7 +49,7 @@ margin-bottom: 0%;
     grid-template-columns: repeat(2,1fr);
     justify-content: space-between;
     margin-top: 4%;
-    margin-left: 1%;
+    margin-left: 0%;
 
 }
 .card-11{
